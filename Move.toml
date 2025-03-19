@@ -1,0 +1,15 @@
+[package]
+name = "dls"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xd168fa5fbd8115df3a112d74b3faf93090485bc2b9c7b4c7087ddb9d6f03b1bc"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
