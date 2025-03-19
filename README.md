@@ -24,4 +24,7 @@ The vision of this project is to create a trustless and censorship-resistant log
 - **Lightweight and Efficient**: Minimal smart contract logic for quick deployment and execution.
 - **Secure Identity Verification**: Users' presence on-chain serves as proof of registration.
 
-##contract address : 0x2e6af7518c9144cd8ebc428696e72eb1bda4ade8b4fd4f4539be5bceb37cb336
+## Contract address : 0x2e6af7518c9144cd8ebc428696e72eb1bda4ade8b4fd4f4539be5bceb37cb336
+
+
+![image](https://github.com/user-attachments/assets/79a1dc21-6f4b-4896-9ffe-9f8d8b5f546a)
